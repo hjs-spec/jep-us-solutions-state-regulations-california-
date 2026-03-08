@@ -183,7 +183,7 @@ python tests/verify-california.py --sb942
 ## 📬 Contact
 
 For California-specific inquiries:
-- **Email**: california@humanjudgment.org
+- **Email**: signal@humanjudgment.org
 - **GitHub**: [hjs-spec/jep-us-solutions](https://github.com/hjs-spec/jep-us-solutions)
 
 ---
