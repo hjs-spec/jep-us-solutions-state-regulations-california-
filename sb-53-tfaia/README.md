@@ -255,7 +255,7 @@ python tests/verify-california.py --sb53
 ## 📬 Contact
 
 For SB 53-specific inquiries:
-- **Email**: sb53@humanjudgment.org
+- **Email**: signal@humanjudgment.org
 - **GitHub**: [hjs-spec/jep-us-solutions](https://github.com/hjs-spec/jep-us-solutions)
 
 ---
