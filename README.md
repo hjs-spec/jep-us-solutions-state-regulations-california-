@@ -184,7 +184,7 @@ python tests/verify-california.py --sb942
 
 For California-specific inquiries:
 - **Email**: signal@humanjudgment.org
-- **GitHub**: [hjs-spec/jep-us-solutions](https://github.com/hjs-spec/jep-us-solutions)
+- **GitHub**: [hjs-spec/jep-us-solutions](https://github.com/hjs-spec/jep-us-solutions-state-regulations-california-/tree/main)
 
 ---
 
